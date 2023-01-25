@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SalemPortfolio/static/css/main.9d6820b4.css",
-    "main.js": "/SalemPortfolio/static/js/main.96a65bd8.js",
+    "main.js": "/SalemPortfolio/static/js/main.2966e9e2.js",
     "static/js/787.a6257828.chunk.js": "/SalemPortfolio/static/js/787.a6257828.chunk.js",
     "static/media/eshop.png": "/SalemPortfolio/static/media/eshop.d26dbe0a9a5a68fbaa07.png",
     "static/media/cloth.jpg": "/SalemPortfolio/static/media/cloth.ecd73d347397f427459f.jpg",
@@ -12,7 +12,6 @@
     "static/media/bgWhite.png": "/SalemPortfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
     "static/media/profile.png": "/SalemPortfolio/static/media/profile.ee489764521abe34026b.png",
     "static/media/about03.png": "/SalemPortfolio/static/media/about03.c26c2547bb1a423cf283.png",
-    "static/media/spotify.png": "/SalemPortfolio/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/mysql.png": "/SalemPortfolio/static/media/mysql.3c59322fa13f5ec643cb.png",
     "static/media/ahmed.jpg": "/SalemPortfolio/static/media/ahmed.a28c28c610880b42c9a5.jpg",
     "static/media/portfolio.jpg": "/SalemPortfolio/static/media/portfolio.bd5994fd62dff3cec53c.jpg",
@@ -24,7 +23,8 @@
     "static/media/bootstrap.png": "/SalemPortfolio/static/media/bootstrap.32c248432e2b86298964.png",
     "static/media/reactRouter.jpg": "/SalemPortfolio/static/media/reactRouter.a4e6bd19872756792ebf.jpg",
     "static/media/bolt.png": "/SalemPortfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
-    "static/media/Ahmed Salem.pdf": "/SalemPortfolio/static/media/Ahmed Salem.477f17e4bb0c6bed2f77.pdf",
+    "static/media/Ahmed Salem.pdf": "/SalemPortfolio/static/media/Ahmed Salem.6cc9f9cd1d7a27ae47af.pdf",
+    "static/media/ahmedsalemEn.pdf": "/SalemPortfolio/static/media/ahmedsalemEn.f4c3f4b062116e21170d.pdf",
     "static/media/redux.png": "/SalemPortfolio/static/media/redux.c9be37e0fece29c624b0.png",
     "static/media/sass.png": "/SalemPortfolio/static/media/sass.36e863bfbcb25c109d00.png",
     "static/media/node.png": "/SalemPortfolio/static/media/node.8683d89cf78ffae3d1f7.png",
@@ -36,19 +36,17 @@
     "static/media/amazon.png": "/SalemPortfolio/static/media/amazon.0a8be1f53138b5c52456.png",
     "static/media/mobile.png": "/SalemPortfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
     "static/media/email.png": "/SalemPortfolio/static/media/email.37b9e890eea501421fbf.png",
-    "static/media/figma.png": "/SalemPortfolio/static/media/figma.152e55329b6f1915967e.png",
     "static/media/css.png": "/SalemPortfolio/static/media/css.5721a3928fe43de6baf8.png",
     "static/media/git.png": "/SalemPortfolio/static/media/git.a54d3fa44e02f2f61e69.png",
-    "static/media/skype.png": "/SalemPortfolio/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "static/media/p2.svg": "/SalemPortfolio/static/media/p2.0da3d302207bcad90cdadc5052e35ed6.svg",
     "index.html": "/SalemPortfolio/index.html",
     "static/media/circle.svg": "/SalemPortfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.9d6820b4.css.map": "/SalemPortfolio/static/css/main.9d6820b4.css.map",
-    "main.96a65bd8.js.map": "/SalemPortfolio/static/js/main.96a65bd8.js.map",
+    "main.2966e9e2.js.map": "/SalemPortfolio/static/js/main.2966e9e2.js.map",
     "787.a6257828.chunk.js.map": "/SalemPortfolio/static/js/787.a6257828.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d6820b4.css",
-    "static/js/main.96a65bd8.js"
+    "static/js/main.2966e9e2.js"
   ]
 }
