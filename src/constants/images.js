@@ -3,8 +3,6 @@ import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
-import figma from '../assets/figma.png';
-import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
@@ -32,7 +30,7 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
+
 import p2 from "../assets/p2.svg";
 import p1 from "../assets/p1.svg";
 import eshop from "../assets/eshop.png";
@@ -49,11 +47,11 @@ import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
 import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
-import skype from '../assets/skype.png';
-import spotify from '../assets/spotify.png';
+
 import salem from '../assets/salem.png'
 
 import CV from "../assets/Ahmed Salem.pdf";
+import ahmedsalemEn from "../assets/ahmedsalemEn.pdf";
 import ahmed from "../assets/ahmed.jpg";
 
 
@@ -63,8 +61,6 @@ export default {
   api,
   cpp,
   css,
-  figma,
-  flutter,
   git,
   graphql,
   html,
@@ -86,14 +82,13 @@ export default {
   about04,
   profile,
   circle,
-  logo,
+
   adidas,
   amazon,
   asus,
   bolt,
   nb,
-  skype,
-  spotify,
+  ahmedsalemEn,
   salem,
   CV,
   ahmed,
