@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SalemPortfolio/static/css/main.9d6820b4.css",
-    "main.js": "/SalemPortfolio/static/js/main.2966e9e2.js",
+    "main.js": "/SalemPortfolio/static/js/main.d4094c92.js",
     "static/js/787.a6257828.chunk.js": "/SalemPortfolio/static/js/787.a6257828.chunk.js",
     "static/media/eshop.png": "/SalemPortfolio/static/media/eshop.d26dbe0a9a5a68fbaa07.png",
     "static/media/cloth.jpg": "/SalemPortfolio/static/media/cloth.ecd73d347397f427459f.jpg",
@@ -23,7 +23,7 @@
     "static/media/bootstrap.png": "/SalemPortfolio/static/media/bootstrap.32c248432e2b86298964.png",
     "static/media/reactRouter.jpg": "/SalemPortfolio/static/media/reactRouter.a4e6bd19872756792ebf.jpg",
     "static/media/bolt.png": "/SalemPortfolio/static/media/bolt.64e7d9d30ece478ef3a0.png",
-    "static/media/Ahmed Salem.pdf": "/SalemPortfolio/static/media/Ahmed Salem.6cc9f9cd1d7a27ae47af.pdf",
+    "static/media/Ahmed Salem.pdf": "/SalemPortfolio/static/media/Ahmed Salem.da41cf94ebbf4747ea96.pdf",
     "static/media/ahmedsalemEn.pdf": "/SalemPortfolio/static/media/ahmedsalemEn.f4c3f4b062116e21170d.pdf",
     "static/media/redux.png": "/SalemPortfolio/static/media/redux.c9be37e0fece29c624b0.png",
     "static/media/sass.png": "/SalemPortfolio/static/media/sass.36e863bfbcb25c109d00.png",
@@ -42,11 +42,11 @@
     "index.html": "/SalemPortfolio/index.html",
     "static/media/circle.svg": "/SalemPortfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.9d6820b4.css.map": "/SalemPortfolio/static/css/main.9d6820b4.css.map",
-    "main.2966e9e2.js.map": "/SalemPortfolio/static/js/main.2966e9e2.js.map",
+    "main.d4094c92.js.map": "/SalemPortfolio/static/js/main.d4094c92.js.map",
     "787.a6257828.chunk.js.map": "/SalemPortfolio/static/js/787.a6257828.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d6820b4.css",
-    "static/js/main.2966e9e2.js"
+    "static/js/main.d4094c92.js"
   ]
 }
